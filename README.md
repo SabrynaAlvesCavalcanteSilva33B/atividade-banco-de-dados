@@ -2,6 +2,12 @@
 
 Este sistema gerencia disciplinas, professores e turmas usando pacotes PL/SQL no Oracle.
 
+## Criar Tabelas
+ 
+### *ALUNO*
+### *DISCIPLINA*
+### *PROFESSOR*
+
 ## Pacotes
 
 ### *PKG_DISCIPLINA*
@@ -15,3 +21,7 @@ Este sistema gerencia disciplinas, professores e turmas usando pacotes PL/SQL no
 - *ATUALIZAR_PROFESSOR*: Atualiza o nome de um professor existente.
 - *LISTAR_PROFESSORES*: Lista todos os professores.
 - *MEDIA_TURMAS_PROFESSOR*: Calcula a média de turmas de um professor.
+
+
+
+n
